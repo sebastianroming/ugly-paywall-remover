@@ -27,5 +27,10 @@
         "128": "static/icon-128.png"
       },
       "default_title": "NRWZ Ugly Paywall Remover"
+    },
+    "icons": {
+      "16": "static/icon-16.png",
+      "32": "static/icon-32.png",
+      "128": "static/icon-128.png"
     }
   }
