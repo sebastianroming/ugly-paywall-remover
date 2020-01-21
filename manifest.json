@@ -1,7 +1,7 @@
  {
-    "name": "NRWZ Paywall Remover",
+    "name": "N*WZ Paywall Remover",
     "version": "1.0",
-    "description": "Removes the ugly Paywall from NRWZ.de",
+    "description": "Removes the ugly Paywall from N*WZ.de",
     "manifest_version": 2,
     "permissions": [
       "activeTab",
