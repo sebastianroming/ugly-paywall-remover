@@ -1,6 +1,8 @@
 window.addEventListener('load', function () {
-  const paywall = document.querySelector('.cleanslate');
-  if (paywall != null) {
-    paywall.remove();
+  const paywalls = document.querySelectorAll('.cleanslate');
+  if (paywalls.length > 0) {
+    paywalls.forEach((paywall) => {
+      paywall.remove();
+    });    
   }
 });
